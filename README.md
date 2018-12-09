@@ -1,4 +1,4 @@
-# WallpaperScraper
+# Reddit Wallpaper Downloader
 
 Simple Bot to scrape wallpapers from Subreddits and set as your wallpaper on windows.
 
