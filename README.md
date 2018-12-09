@@ -2,6 +2,8 @@
 
 Simple Bot to scrape wallpapers from Subreddits and set as your wallpaper on windows.
 
+It uses PRAW, the python wrapper for the Reddit API.
+
 # Usage 
 
 Download all the required packages. Read the import statements to understand which all you need.
